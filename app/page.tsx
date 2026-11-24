@@ -1,7 +1,7 @@
 
 export default function Home() {
   return (
-    <main className="min-h-screen bg-white px-6 py-20 text-slate-900">
+    <main className="flex-1 bg-white px-6 py-20 text-slate-900">
       <div className="mx-auto max-w-5xl">
         <p className="text-sm font-medium tracking-widest text-blue-600">
           BRIDGE / DIGITAL GARDEN
